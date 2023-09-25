@@ -21,3 +21,8 @@ This project aims to perform customer segmentation based on the recency, frequen
 **Preview Generation Page**
 
 ![Preview Generation Page](https://github.com/ducminhta/PowerBI-RFM-Analysis/blob/1fe37af1fbdcba50a98093b16bd61a01cf41db3a/Preview%20Generation%20Page.png)
+
+## Data Source
+
+**AdventureWorks sample databases**: [AdventureWorksDW2022](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
