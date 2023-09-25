@@ -13,3 +13,11 @@ This project aims to perform customer segmentation based on the recency, frequen
 **5. Data Visualization:** Build categorical, time series, and geographical charts with interactive slicers.
 
 ## Preview
+
+**Preview Segmentation Page**
+
+![Preview Segmentation Page](https://github.com/ducminhta/PowerBI-RFM-Analysis/blob/1fe37af1fbdcba50a98093b16bd61a01cf41db3a/Preview%20Segmentation%20Page.png)
+
+**Preview Generation Page**
+
+![Preview Generation Page](https://github.com/ducminhta/PowerBI-RFM-Analysis/blob/1fe37af1fbdcba50a98093b16bd61a01cf41db3a/Preview%20Generation%20Page.png)
